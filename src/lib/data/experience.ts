@@ -31,10 +31,10 @@ export const experience: ExperienceEntry[] = [
 		period: '2023 — 2024',
 		place: '',
 		paragraphs: [
-			'What I took from EventFlutter is how an event becomes a '
-			'contract the moment people start hiring each other. A creator books a vendor or a venue,' 
-			'a deposit and milestones are agreed, and the money sits in escrow until the work is accepted.'
-			'A quote can be taken, turned down, or priced again. KYC and disputes are how the platform stays in the middle when one'
+			'What I took from EventFlutter is how an event becomes a',
+			'contract the moment people start hiring each other. A creator books a vendor or a venue,' ,
+			'a deposit and milestones are agreed, and the money sits in escrow until the work is accepted.',
+			'A quote can be taken, turned down, or priced again. KYC and disputes are how the platform stays in the middle when one',
 			'side says the job was not done. I learned to build for that gap, between the booking and the payout, and to make sure the right person hears about it.'
 		]
 	},
@@ -47,10 +47,10 @@ export const experience: ExperienceEntry[] = [
 			'Lead design and development of Dukaren Management System, Battery Intelligence and Fleet Management systems in Go.',
 			'Build high-throughput data ingesters over WebSocket and MQTT.',
 			'Design wallet-based billing on the Daraja (M-Pesa) API, and SDKs for USSD, SMS and Daraja used across our APIs.',
-			'Develop a multi-channel notifications and alerts system.'
+			'Develop a multi-channel notifications and alerts system.',
 			'Own system design decisions and optimise based on observability metrics.',
 			'Maintain a private fork of the open-source ocpp-go package, extending it with additional functionality.',
-			'Build CI/CD pipelines, write unit tests and work with hardware and product teams on end-to-end solutions.',
+			'Build CI/CD pipelines, write unit tests and work with hardware and product teams on end-to-end solutions.'
 		]
 	}
 
