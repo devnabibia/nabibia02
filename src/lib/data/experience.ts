@@ -39,7 +39,7 @@ export const experience: ExperienceEntry[] = [
 		]
 	},
 	{
-		company: 'Dessra Ventures'
+		company: 'Dessra Ventures',
 		role: 'Intern Software Engineer',
 		period: '2022 - 2023',
 		place: '',
