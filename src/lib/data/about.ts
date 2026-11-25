@@ -2,7 +2,8 @@ export const aboutBio = [
 	'I’m Dennis Nangendo, a software developer based in Nairobi. I focus on backend development and system design, and I hold a bachelors degree in Computer Science from Rongo University.',
 	'I care about the solution and whether it will last. My work spans web applications, distributed systems and backend services in Go.',
 	'I like complicated problems — especially the kind that look simple once they’ve been solved well. I care about building software that is'
-	'technically sound without making the user think about the engineering behind it. That means owning features end to end, making thoughtful architectural decisions, 
+	'technically sound without making the user think about the engineering behind it. That means owning features end to end,'
+	' making thoughtful architectural decisions,' 
 	'working closely with product and design, writing tests, and staying close enough to production to fix what breaks.' 
 	'I want to keep learning as much as I can and put it to work on real problems.'
 ];
